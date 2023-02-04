@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h2><strong>Krzysiu w szkole</strong></h2>
+<p>Na lekcji wychowania fizycznego Krzyœ skaleczy³ siê w rêkê. Pani higienistka, przy u¿yciu C<sub>2</sub>H<sub>5</sub>OH odkazi³a mu
+krwawi¹c¹ ranê.</p>
+
+<p>Na matematyce by³o potêgowanie .Krzyœ obliczy³ ,¿e 4<sup>2</sup>2=16 oraz 2<sup>3</sup>=8. U³o¿y³ równie¿ nierównoœæ : 2x<sub>1</sub>< 4+8x<sub>1</sub></p>
+
+<p>Potem by³a fizyka i trzeba by³o maj¹c ciœnienie i pole powierzchni policzyæ si³ê parcia :<dfn>F<sub>p=</sub>p·S . </dfn>
+PóŸniej by³y zadania w których temperaturê w <sup>0</sup>C nale¿a³o zamieniæ na Kelwiny.</p>
+
+<p><strong>Na zadanie domowe nale¿y nauczyæ siê definicji ciœnienia atmosferycznego.</strong></p>
+
+<p><em>Ciœnienie atmosferyczne to ciœnienie powietrza które jest wywierane na wszystkie cia³a znajduj¹ce siê na Ziemi. Im
+wy¿ej nad powierzchni¹ Ziemi, tym ciœnienie powietrza jest mniejsze.</em>
+
+<p><small>Autorem tekstu jest Krzysztof Nowak < Nowy Tomyœl godzina 20<sup>25</sup> ></small></p>
+
+
+</body>
+</html>
